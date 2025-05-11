@@ -65,5 +65,5 @@
 <body>
   <div class="container">
     <div class="logo">LXRZ STORE</div>
-    <<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAYACAIAAABn4K39AAEtU2NhQlgAAS1TanVtYgAAAB5qdW1kYz..." alt="Pack de Edição para Quiz" class="product-img">
+    <<imgsrc="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAYACAIAAABn4K39AAEtU2NhQlgAAS1TanVtYgAAAB5qdW1kYz..." alt="Pack de Edição para Quiz" class="product-img">
 
