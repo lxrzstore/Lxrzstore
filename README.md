@@ -65,21 +65,5 @@
 <body>
   <div class="container">
     <div class="logo">LXRZ STORE</div>
-    <img src="A_digital_graphic_design_promotes_a_digital_editin.png" alt="Pack de Edição para Quiz" class="product-img">
-    <div class="product-title">Pack de Edição para Quiz</div>
-    <div class="price">R$ 19,99</div>
-    <div class="desc">
-      O pack ideal para criadores de conteúdo! Inclui templates de vídeo, efeitos sonoros, transições, fontes e muito mais para deixar seus quizzes ainda mais profissionais.
-      <br><br>
-      ✅ Compatível com diversos editores <br>
-      ✅ Atualizações grátis por 30 dias <br>
-      ✅ Mais de 1000 editores já usaram!
-    </div>
-    <a class="cta-button" href="https://wa.me/5583999377047?text=Ol%C3%A1%2C+tenho+interesse+no+Pack+de+Edi%C3%A7%C3%A3o+para+Quiz+da+LXRZ+Store">Comprar via WhatsApp</a>
-    <div class="footer">
-      © 2025 LXRZ Store. Todos os direitos reservados. <br>
-      Siga-nos no Instagram e YouTube para mais novidades.
-    </div>
-  </div>
-</body>
-</html>
+    <<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAYACAIAAABn4K39AAEtU2NhQlgAAS1TanVtYgAAAB5qdW1kYz..." alt="Pack de Edição para Quiz" class="product-img">
+
